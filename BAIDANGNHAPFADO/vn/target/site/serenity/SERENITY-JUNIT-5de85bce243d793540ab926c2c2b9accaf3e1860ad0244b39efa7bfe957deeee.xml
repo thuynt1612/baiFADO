@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="moreaction.features.search.FadoUpdateInformationStory" skipped="0" tests="1" time="46.34" timestamp="2021-06-08T20:50:10.715+07:00[Asia/Bangkok]"><testcase classname="moreaction.features.search.FadoUpdateInformationStory" name="Complete register form information"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+moreaction.tasks.ClosePromotional.performAs(ClosePromotional.java:19)&#13;
+moreaction.features.search.FadoUpdateInformationStory.complete_register_form_information(FadoUpdateInformationStory.java:33)&#13;
+</system-err></testcase></testsuite>

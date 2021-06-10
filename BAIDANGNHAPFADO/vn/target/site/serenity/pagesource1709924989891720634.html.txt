@@ -1,0 +1,458 @@
+<html><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <link rel="icon" href="https://st-fe-v2.fado.vn/global/images/favicon.ico?v=3.111.0.0" type="image/x-icon">
+  <meta name="keywords" content="nhan, hang, ship, amazon, mua, ship hang, mua hang, amazon viet nam">
+  <meta name="description" content="Fado sàn thương mại điện tử xuyên biên giới (Cross-Border E-Commerce). Nơi mua sắm hàng tỷ sản phẩm Đức, Nhật, Úc, UK ngay tại Việt Nam. Chính ngạch, an toàn, vui vẻ, giá rẻ, giao nhanh.">
+  <meta http-equiv="content-language" content="vi">
+  <title>Đăng nhập - Fado - Mua sắm xuyên biên giới: Amazon, Ebay, Jomashop... từ Mỹ, Đức, Nhật, UK, Singapore</title>
+  <link rel="icon" href="https://st-fe-v2.fado.vn/global/images/favicon.ico" type="image/x-icon">
+
+        <link rel="stylesheet" type="text/css" href="https://st-fe-v2.fado.vn/desktop/dist/css/vendor-style.css?v=3.111.0.0">
+  
+        <link rel="stylesheet" type="text/css" href="https://st-fe-v2.fado.vn/desktop/dist/css/auth-page-style.css?v=3.111.0.0">
+  
+  <script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/config.js?sdkid=BR8C2GRABVNEQM4ABVS0"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/ec.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/sdk.js?sdkid=BR8C2GRABVNEQM4ABVS0"></script><script src="https://connect.facebook.net/signals/config/1296805557331721?v=2.9.40&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/config/798445657458308?v=2.9.40&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="https://a.mgid.com/mgsensor.js?d=1621608188682&amp;source=gtm"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-B0FMM1J4NC&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5R5MNS3"></script><script>
+    window.isLoaded = false;
+
+    window.MICZONE = {
+      ROUTER_NAME: 'userLoginPage',
+      DISPATCHER_PARAM: [],
+      APPLICATION_VER: '3.111.0.0',
+      APPLICATION_ENV: 'production',
+      BASE_URL: 'https://fado.vn',
+      STATIC_URL: 'https://st-fe-v2.fado.vn/desktop',
+      IMAGE_URL: 'https://st-fe-v2.fado.vn/desktop/image',
+      UPLOAD_URL: 'https://st-fe-v2.fado.vn/desktop/upload',
+      BRAND_NAME: 'Fado',
+      BRAND_DOMAIN_NAME: 'Fado.vn',
+      SUPPORT_PHONE: '1900 545 403',
+      SUPPORT_EMAIL: 'support@fado.vn',
+      FACEBOOK_APP_ID: '379542705504383',
+      EXCHANGE_RATE: {"USD_TO_VND":23725,"JPY_TO_USD":0.00918,"EUR_TO_USD":1.101218,"GBP_TO_USD":1.28699},
+      IS_CRAWLER: false,
+      BANK_ACC_INFO: {"bankName":"Vietcombank","bankDesc":"Ngân hàng ngoại thương Việt Nam","bankFullname":"\u003Cb\u003EVietcombank\u003C\/b\u003E - Ngân hàng ngoại thương Việt Nam","bankBranch":"Gia Định - TP. Hồ Chí Minh","bankBranchName":"Chi Nhánh Gia Định - TP. Hồ Chí Minh","bankCity":"TP.Hồ Chí Minh","accNumber":"0881000451717","accName":"Công Ty Cổ Phần FADO Việt Nam"},
+      ZALO_OFICIAL_ACCOUNT_ID: 1082570741334905219,
+      CART_QUANTITY: 0,
+    };
+
+    window.PAGE_INFO = {};
+
+    window.onloadCallbackStack = [];
+    window.addOnloadEvent = function(event) {
+      window.onloadCallbackStack.push(event);
+      window.onload = function() {
+        var i = 0;
+        for (i = 0; i < window.onloadCallbackStack.length; i++) {
+          window.onloadCallbackStack[i]();
+        }
+      }
+    };
+
+    window.onbeforeunloadCallbackStack = [];
+    window.addBeforeUnloadEvent = function(event) {
+      window.onbeforeunloadCallbackStack.push(event);
+      window.onbeforeunload = function() {
+        var i = 0;
+        for (i = 0; i < window.onbeforeunloadCallbackStack.length; i++) {
+          window.onbeforeunloadCallbackStack[i]();
+        }
+      }
+    };
+  </script>
+
+  <script>
+    window.objLanguageData = {"strCode":"vi","strGlobalScopeKey":"global","strScopeKey":"desktop-auth-userLoginPage","objData":{"global":{"country_vn":"Việt Nam","country_us":"Mỹ","country_jp":"Nhật","country_de":"Đức","country_uk":"Anh","page_head_title":"Fado - Mua sắm xuyên biên giới: Amazon, Ebay, Jomashop... từ Mỹ, Đức, Nhật, UK, Singapore","page_meta_keywords":"nhan, hang, ship, amazon, mua, ship hang, mua hang, amazon viet nam","page_meta_description":"Fado sàn thương mại điện tử xuyên biên giới (Cross-Border E-Commerce). Nơi mua sắm hàng tỷ sản phẩm Đức, Nhật, Úc, UK ngay tại Việt Nam. Chính ngạch, an toàn, vui vẻ, giá rẻ, giao nhanh.","breadcrumb_home_page_text":"Trang chủ","text_language":"Ngôn ngữ","text_price":"Giá","text_loading":"Đang xử lý ...","text_back_to_home_page":"Quay về trang chủ","text_header_alibaba":"Xuất khẩu","text_header_support_center":"Trung tâm hỗ trợ","text_header_support_center_block_order_and_payment":"Đơn hàng \u0026 Thanh toán","text_header_support_center_block_delivery_and_receive":"Giao hàng \u0026 Nhận hàng","text_header_support_center_block_return_and_refund":"Đổi trả hàng \u0026 Hoàn tiền","text_header_support_center_block_shopping_guide":"Cẩm nang mua sắm","text_header_product_from":"Sp từ","text_header_track_order_block_order_found":"Đã tìm thấy đơn hàng của quý khách, Fado đang chuyển đến trang chi tiết đơn hàng !","text_header_user_block_description":"Fado của quý khách","text_header_user_block_logged_in_level":"Cấp độ thành viên","text_header_user_block_logged_in_level_tooltip":"Cấp thành viên của quý khách","text_header_user_block_logged_in_coin":"Điểm hiện tại","text_header_user_block_logged_in_change_profile":"Thay đổi thông tin cá nhân","text_header_user_block_logged_in_order":"Đơn hàng của quý khách","text_header_user_block_logged_in_favorite_product":"Sản phẩm yêu thích","text_header_user_block_logged_in_request_quotation":"Danh sách báo giá","text_header_user_block_logged_in_discount_code":"Danh sách mã giảm giá","text_header_user_block_logged_in_logout":"Thoát tài khoản","text_header_user_block_not_logged_in_welcome":"Fado Việt Nam kính chào quý khách","text_header_user_block_not_logged_in_other_login_method":"Hoặc đăng nhập qua","text_header_cart_block_add_to_cart_success":"Thêm vào giỏ hàng thành công","text_header_cart_block_go_to_cart_page":"Xem giỏ hàng và thanh toán","text_footer_fado_block_title":"Fado Việt Nam","text_footer_fado_block_about":"Giới thiệu về Fado","text_footer_fado_block_customer_feedback":"Phản hồi khách hàng","text_footer_fado_block_talk_about":"Báo chí nói về Fado","text_footer_fado_block_support_center":"Trung tâm hỗ trợ","text_footer_fado_block_news":"Tin tức","text_footer_fado_block_regulation":"Quy chế hoạt động Sàn TMĐT","text_footer_fado_block_career":"Cơ hội nghề nghiệp","text_footer_fado_block_tax_obligation":"Nghĩa vụ thuế","text_footer_fado_block_reseller":"Liên kết hợp tác","text_footer_for_customer_block_title":"Dành cho khách hàng","text_footer_for_customer_block_hotline":"Hotline: 1900 545 403 (8 - 22h, T2 đến CN)","text_footer_for_customer_block_customer_protection":"Bảo vệ người mua","text_footer_for_customer_block_shopping_guide":"Hướng dẫn mua hàng","text_footer_for_customer_block_payment_method":"Phương thức thanh toán","text_footer_for_customer_block_return_policy":"Chính sách đổi trả hàng","text_footer_for_customer_block_faq":"Câu hỏi thường gặp","text_footer_for_customer_block_delivery_method":"Cách thức giao nhận","text_footer_for_customer_block_trading_term":"Chính sách giao dịch","text_footer_for_customer_block_affiliate":"Kiếm tiền cùng Fado","text_footer_for_customer_block_sell_on_amazon":"Bán hàng trên amazon","text_footer_for_customer_block_privacy_policy":"Chính sách bảo mật","text_footer_for_customer_block_alibaba":"Xuất khẩu","text_footer_for_customer_block_for_english_user":"For English user","text_footer_like_facebook":"Like để nhận ưu đãi hàng ngày","text_footer_play_video":"Xem Fado có gì hay ?","text_footer_subscribe_block_title":"Đăng ký nhận tin ưu đãi","text_footer_subscribe_block_description":"Đừng bỏ lỡ sự kiện nóng hổi và triệu chương trình giảm giá siêu hấp dẫn sẽ được Fado cập nhật đến quý khách hàng tuần.","text_footer_subscribe_block_processing":"Dữ liệu đang xử lý, xin quý khách chờ trong giây lát !","text_footer_subscribe_block_success":"Quý khách đã đăng ký nhận tin ưu đãi thành công !","text_footer_acceptable_payment_method":"Chấp nhận thanh toán","text_footer_headquarter_hochiminh_vietnam_block_title":"Trụ sở giao dịch tại TP. Hồ Chí Minh","text_footer_branch_hanoi_vietnam_block_title":"Chi nhánh tại TP. Hà Nội","text_footer_trending_search_block_title":"Xu hướng tìm kiếm","text_footer_trending_search_block_electronic_and_technology":"Đồ điện tử và công nghệ","text_footer_trending_search_block_watch":"Đồng hồ hàng hiệu","text_footer_trending_search_block_fashion":"Thời trang","text_footer_trending_search_block_baby_toy":"Đồ chơi cho bé","text_footer_trending_shopping_block_title":"Xu hướng mua sắm","text_footer_trending_shopping_block_male":"Nam giới","text_footer_trending_shopping_block_female":"Nữ giới","text_footer_other_shopping_website":"Mua sắm từ các website khác","text_scroll_block_compare":"Xem so sánh","text_scroll_block_feedback":"Cảm nhận khách hàng","text_scroll_block_faq":"Hỏi đáp","text_scroll_block_online":"Trực tuyến","text_read_more":"Xem thêm","text_read_all":"Xem tất cả","text_product_panel_comment_title":"bình luận","text_extra_info_no_support_title":"Hiện tại Fado không hỗ trợ nhập khẩu sản phẩm này về Việt Nam","text_product_panel_total_price_to_vn":"Giá trọn gói về Việt Nam","text_product_panel_price_foreign":"Giá bán tại nước ngoài","text_product_panel_hot_buy":"Mua nhiều","text_product_panel_contact":"Liên hệ","text_product_panel_price_report":"Click để xem báo giá","text_product_panel_feature_1":"Nhập khẩu chính ngạch","text_product_panel_feature_2":"Bảo vệ người mua, giảm thiểu rủi ro","text_product_panel_feature_3":"Giao hàng tận nhà, không lo thủ tục","text_product_panel_price_banned":"Không hỗ trợ nhập khẩu","text_product_panel_merchant_title":"Người bán","text_search_fail_notify":"Rất tiếc, Fado không tìm thấy dữ liệu phù hợp !","text_search_fail_support_title":"Tư vấn miễn phí","text_search_fail_question_title":"Câu hỏi thường gặp","text_suggest_product_deal_block_title":"Quý khách có thể tham khảo thêm các sản phẩm giảm giá dưới đây","text_is_loading_data":"Đang xử lý dữ liệu","text_template_header_user_block_logged_in_total_order":"%total% đơn","text_template_product_panel_from_country_title":"Từ %country%","html_header_track_order":"Theo dõi\u003Cbr\/\u003Eđơn hàng","html_header_user_block_logged_in_update_birthdate_tooltip":"Cập nhập thông tin ngày sinh\u003Cbr\/\u003Eđể nhận được nhiều ưu đãi","html_header_user_block_logged_in_affiliate":"Chương trình Đại sứ Fado\u003Cbr\/\u003E\u003Ci class=\u0022text-gray\u0022\u003E(Giới thiệu đơn hàng)\u003C\/i\u003E","html_footer_copyright":"\u003Cspan class=\u0022text-danger\u0022\u003EFado.vn\u003C\/span\u003E - Sàn thương mại điện tử xuyên biên giới hàng đầu Việt Nam\u003Cbr\/\u003EGiấy phép số 0107170526. Chịu trách nhiệm: \u003Cspan class=\u0022text-primary\u0022\u003EFado JSC\u003C\/span\u003E","html_footer_easy_shopping_on_amazon_title":"\u003Ca href=\u0022https:\/\/fado.vn\u0022\u003EMua hàng trên Amazon\u003C\/a\u003E chưa bao giờ dễ thế","html_footer_easy_shopping_on_amazon_description":"\u003Cp\u003EAmazon.com hiện nay là ông vua bán lẻ trực tuyến khổng lồ có số lượng người bán hàng và mua hàng cực kì đông đảo, phạm vi hoạt động trên toàn thế giới,thương hiệu của họ luôn được đảm bảo bằng những dịch vụ tốt và uy tín nhất. Mọi thứ quý khách cần đều có thể dễ dàng tìm kiếm tại Amazon vì hàng hóa vô cùng đa dạng và phong phú cùng với mức giá cạnh tranh so với thị trường, từ những vật dụng sinh hoạt hằng ngày cho đến những mặt hàng cao cấp và xa xỉ nhất ...\u003C\/p\u003E\u003Cp\u003EChính vì thế Fado.vn được ra đời như là một Amazon Việt Nam nhằm cung cấp cho quý khách hàng dịch vụ mua hàng Amazon tại Việt Nam, và ship hàng amazon về Việt Nam sau đó vận chuyển đến tận tay quý khách hàng một cách nhanh chóng, an toàn với chi phí tiết kiệm nhất. Tại Fado.vn quý khách được xem báo giá trực tiếp giá trị món hàng khi được vận chuyển về Việt Nam và đặt mua hàng Amazon hay ship hàng một cách nhanh chóng chỉ với vài thao tác click chuột, không cần phải chờ đợi báo giá. Thanh toán bằng nhiều hình thức rất tiện lợi, có thể trực tiếp quản lý và theo dõi trạng thái đơn hàng của mình từ amazon tại Mỹ về Việt Nam.\u003C\/p\u003EEmail: \u003Ca href=\u0022mailto:support@fado.vn\u0022\u003Esupport@fado.vn\u003C\/a\u003E","html_search_fail_suggest":"Quý khách có thể bấm \u003Ca href=\u0022\u0022\u003Etại đây\u003C\/a\u003E để tải lại trang hoặc quay về \u003Ca href=\u0022https:\/\/fado.vn\u0022\u003Etrang chủ\u003C\/a\u003E để tiếp tục mua hàng","html_template_header_track_order_block_faq":"Nếu quý khách có thắc mắc nào khác, vui lòng phản hồi \u003Ca href=\u0022%url%\u0022\u003Etại đây\u003C\/a\u003E","html_template_header_user_block_logged_in":"Xin chào, \u003Ca class=\u0022header-block__username-link\u0022 href=\u0022%profile_page_url%\u0022\u003E%user_fullname%\u003C\/a\u003E","html_template_header_user_block_not_logged_in":"\u003Ca href=\u0022%login_page_url%\u0022\u003EĐăng nhập\u003C\/a\u003E \/ \u003Ca href=\u0022%register_page_url%\u0022\u003EĐăng ký\u003C\/a\u003E","html_scroll_block_chat_welcome":"- Fado xin chào, quý khách đang cần hỗ trợ?\u003Cbr\/\u003E\u003Ci\u003E(làm việc từ T2 -\u003E Chủ nhật)\u003C\/i\u003E\u003Cbr\/\u003E\u003Cspan class=\u0022font--weight-500\u0022\u003E- Vui lòng chọn tiện ích ở dưới:\u003C\/span\u003E","html_template_extra_info_order_time_field":"Sản phẩm sẽ giao đến địa chỉ quý khách vào khoảng ngày \u003Cb\u003E%delivery_to_customer_soonest%\u003C\/b\u003E đến \u003Cb\u003E%delivery_to_customer_latest%\u003C\/b\u003E nếu quý khách thanh toán trong hôm nay","entry_error_required":"Vui lòng nhập dữ liệu","entry_error_correct":"Vui lòng sửa cho đúng","entry_error_only_string_and_number_required":"Vui lòng nhập cả chữ và số","entry_error_equal_to_required":"Thông tin nhập lại không trùng khớp","entry_date_error_valid_format_required":"Vui lòng nhập ngày tháng hợp lệ","entry_date_iso_error_valid_format_required":"Vui lòng nhập ngày tháng (ISO) hợp lệ","entry_number_error_valid_format_required":"Vui lòng nhập số hợp lệ","entry_digits_error_valid_format_required":"Vui lòng nhập chữ số hợp lệ","entry_credit_card_error_valid_format_required":"Vui lòng nhập số thẻ tín dụng hợp lệ","entry_extension_error_valid_format_required":"Vui lòng nhập phần mở rộng hợp lệ","entry_retype_password_error_not_match":"Mật khẩu nhập lại không trùng khớp","entry_captcha_error_incorrect":"Mã xác nhận không chính xác","entry_phone_error_valid_format_required":"Số điện thoại không hợp lệ, chỉ được phép nhập số","entry_phone_error_valid_length_required":"Độ dài số điện thoại không hợp lệ","entry_header_track_order_block_order_code":"Mã đơn hàng","entry_header_track_order_block_order_code_placeholder":"VD: AM200617-91807","entry_header_track_order_block_phone":"Số điện thoại","entry_header_track_order_block_phone_placeholder":"VD: 0925837182","entry_header_search_block_placeholder":"Nhập link hoặc tên sản phẩm trên khắp thế giới ...","entry_header_search_block_suggestion":"Nhập từ khóa tiếng việt có dấu hoặc tiếng anh để có kết quả tìm kiếm chính xác nhất ...","entry_footer_subscribe_block_email_placeholder":"Nhập email của quý khách tại đây ...","entry_footer_subscribe_block_email_error_valid_format_required":"Quý khách vui lòng nhập đúng định dạng email !","entry_template_error_required":"Vui lòng nhập %name%","entry_template_error_valid_format_required":"Vui lòng nhập %name% đúng định dạng","entry_template_error_minimum_length_required":"Vui lòng nhập ít nhất %length% ký tự","entry_template_error_maximum_length_required":"Vui lòng nhập không quá %length% ký tự","entry_template_error_range_length_required":"Vui lòng nhập trong khoảng từ %from_length% đến %to_length% ký tự","entry_template_error_minimum_value_required":"Vui lòng nhập giá trị lớn hơn hoặc bằng %value%","entry_template_error_maximum_value_required":"Vui lòng nhập giá trị nhỏ hơn hoặc bằng %value%","entry_template_error_range_value_required":"Vui lòng nhập giá trị trong khoảng từ %from_value% đến %to_value%","entry_template_fullname_error_minimum_length_required":"Họ và tên phải có tối thiểu %length% ký tự","entry_template_phone_error_minimum_length_required":"Số điện thoại phải có tối thiểu %length% ký tự","entry_template_password_error_minimum_length_required":"Mật khẩu phải có tối thiểu %length% ký tự","entry_template_content_error_minimum_length_required":"Nội dung phải có tối thiểu %length% ký tự","entry_template_feedback_content_error_minimum_length_required":"Nội dung phản hồi phải có tối thiểu %length% ký tự","entry_template_date_error_valid_format_required":"Vui lòng nhập định dạng ngày tháng theo mẫu: %format%","entry_template_error_not_match":"%name% không trùng khớp","entry_template_error_incorrect":"%name% không chính xác","button_buy_now":"Mua ngay","button_add_to_cart":"Giỏ hàng","button_header_track_order_block_submit":"Xem ngay","button_header_user_block_logged_in_affiliate":"Tham gia","button_header_user_block_not_logged_in_login":"Đăng nhập","button_header_user_block_not_logged_in_register":"Đăng ký","button_footer_more_branch":"Xem thêm","button_scroll_block_compare_clear_all":"Xóa tất cả","button_read_more":"Xem thêm","button_read_all":"Xem tất cả","button_detail":"Xem chi tiết","button_title_first_page":"Trang đầu tiên","button_title_last_page":"Trang cuối cùng","error_general":"Có lỗi xảy ra, xin quý khách vui lòng thử lại. Xin cảm ơn !","error_connection":"Có lỗi đường truyền xảy ra, xin quý khách vui lòng thử lại. Xin cảm ơn !","error_server":"Có lỗi xảy ra từ phía server, xin quý khách vui lòng thử lại. Xin cảm ơn !","error_one_or_more_occurred":"Có lỗi xảy ra","error_header_search_block_empty_keyword":"Vui lòng nhập từ khóa trước khi tìm kiếm","error_template_invalid_param":"Tham số %name% không hợp lệ"},"desktop-auth-userLoginPage":{"page_title":"Đăng nhập","popup_request_password_title":"Lấy lại mật khẩu","tab_login_text":"Đăng nhập","tab_register_text":"Đăng ký","text_login_success_and_back_to_previous_page":"Đăng nhập thành công. Quý khách đang được chuyển về trang trước đó. Xin vui lòng chờ ...","text_forgot_password":"Quên mật khẩu ?","text_member_benefit_title":"QUYỀN LỢI THÀNH VIÊN","text_member_benefit_1":"Mua hàng khắp thế giới cực dễ dàng, nhanh chóng","text_member_benefit_2":"Theo dõi đơn hàng, hành trình đơn hàng","text_member_benefit_3":"Nhận nhiều ưu đãi hấp dẫn từ khắp thế giới","text_other_login_method":"Hoặc đăng nhập qua","text_copyright":"© Copyright 2013 - 2021","text_popup_request_password_success_notice":"Yêu cầu lấy lại mật khẩu của quý khách đã được xác nhận. Vui lòng làm theo các bước bên dưới để có thể thay đổi mật khẩu mới !","text_popup_request_password_success_step_1_title":"Bước 1","text_popup_request_password_success_step_1_description":"Mở email thay đổi mật khẩu Fado đã gửi cho quý khách","text_popup_request_password_success_step_2_title":"Bước 2","text_popup_request_password_success_step_2_description":"Nhấp chọn vào đường dẫn trong email","text_popup_request_password_success_step_3_title":"Bước 3","text_popup_request_password_success_step_3_description":"Tiến hành thay đổi mật khẩu tại website Fado","html_template_register_now":"Quý khách chưa có tài khoản \u003Ca data-test-register-link href=\u0022%register_page_url%\u0022\u003EĐăng ký ngay\u003C\/a\u003E","entry_email_placeholder":"Địa chỉ email của quý khách","entry_password_placeholder":"Mật khẩu của quý khách","entry_popup_request_password_email_placeholder":"Địa chỉ email của quý khách","entry_popup_request_password_captcha_placeholder":"Nhập mã xác nhận","button_submit":"Đăng nhập","button_popup_request_password_submit":"Xác nhận"}}};
+  </script>
+
+        <script src="https://st-fe-v2.fado.vn/desktop/dist/js/vendor.js?v=3.111.0.0" defer=""></script>
+  
+        <script src="https://st-fe-v2.fado.vn/desktop/dist/js/auth-page.js?v=3.111.0.0" defer=""></script>
+  
+  
+  
+<script>
+  (function (w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+    var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-5R5MNS3');
+</script>
+
+  <script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1033619746/?random=1621608188799&amp;cv=9&amp;fst=1621608188799&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=376635470%2C2505059651&amp;u_h=768&amp;u_w=1280&amp;u_ah=728&amp;u_aw=1280&amp;u_cd=24&amp;u_his=2&amp;u_tz=420&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg5c1&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Ffado.vn%2Fdang-nhap%3Fredirect%3Dhttps%253A%252F%252Ffado.vn%252F&amp;tiba=%C4%90%C4%83ng%20nh%E1%BA%ADp%20-%20Fado%20-%20Mua%20s%E1%BA%AFm%20xuy%C3%AAn%20bi%C3%AAn%20gi%E1%BB%9Bi%3A%20Amazon%2C%20Ebay%2C%20Jomashop...%20t%E1%BB%AB%20M%E1%BB%B9%2C%20%C4%90%E1%BB%A9c%2C%20Nh%E1%BA%ADt%2C%20UK%2C%20Singapore&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script charset="utf-8" src="https://analytics.tiktok.com/i18n/pixel/identify.js"></script><link rel="stylesheet" type="text/css" href="https://assets.api.useinsider.com/css/info.min.css" classname="ins-frameless-css" class="ins-frameless-css" id="ins-frameless-css"><script type="text/javascript" src="https://assets.api.useinsider.com/js/info.js" id="ins-frameless-js"></script><style id="ins-outer-stylesheet-7264" type="text/css" classname="ins-outer-stylesheet-7264" class="ins-outer-stylesheet-7264">.ins-preview-wrapper-7264 .ins-content-wrapper strong { color: inherit;}.ins-preview-wrapper-7264 input::placeholder { opacity: 1 !important; color: gray !important;}.ins-preview-wrapper-7264 #ins-lead-collection-popup-with-image-adaptive { float: left; position: relative; width: 100%;}.ins-preview-wrapper-7264 .ins-notification-content { width: 705px !important; height: 400px !important; display: inline-block !important; margin: 10px; max-width: 100%; float: left; overflow: hidden; box-sizing: content-box;}.ins-preview-wrapper-7264 form { display: flex; justify-content: center; align-items: center; width: 330px; position: relative; left: 375px; min-height: 400px;}.ins-preview-wrapper-7264 .ins-arabic { direction: rtl !important;}.ins-preview-wrapper-7264 .ins-arabic form { left: -375px;}.ins-preview-wrapper-7264 .ins-notification-content a { color: inherit !important;}.ins-preview-wrapper-7264 .ins-element-link { width: 100%; height: 100%; display: table; color: inherit;}.ins-preview-wrapper-7264 .ins-element-image .ins-element-link { display: inline-block;}.ins-preview-wrapper-7264 .ins-element-link .ins-editable { width: 100%; height: 100%; outline: none; word-wrap: break-word; display: table-cell; vertical-align: middle;}.ins-preview-wrapper-7264 .ins-element-button .ins-element-content { text-align: center; font-size: 16px; color: #ffffff; border-style: solid; border-width: 0;}.ins-preview-wrapper-7264 .ins-icon { display: inline-block; font-size: inherit; text-rendering: auto; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; transform: translate(0,0); -webkit-transform:translate(0,0); -moz-transform:translate(0,0); -ms-transform:translate(0,0); -o-transform:translate(0,0);}.ins-preview-wrapper-7264 .ins-adaptive-title .ins-element-content,.ins-preview-wrapper-7264 .ins-adaptive-description .ins-element-content { height: auto; margin: 0 auto; padding: 0; box-sizing: border-box; color: #000000;}.ins-preview-wrapper-7264 .ins-adaptive-email input { width: 100%; height: 40px; margin: 0; border: 1px solid #dbdbdb; font-size: 16px; color: #000; font-weight: 700; padding: 0 15px; box-sizing: border-box; border-radius: 5px !important; outline: none;}.ins-preview-wrapper-7264 .ins-adaptive-title,.ins-preview-wrapper-7264 .ins-adaptive-description,.ins-preview-wrapper-7264 .ins-adaptive-question,.ins-preview-wrapper-7264 .ins-adaptive-button { margin: auto; margin-top: 10px; color: #FFFFFF;}.ins-preview-wrapper-7264 .ins-adaptive-title .ins-element-content,.ins-preview-wrapper-7264 .ins-adaptive-description .ins-element-content { outline: none; word-wrap: break-word; word-break: break-word; text-align: center;}.ins-preview-wrapper-7264 .ins-adaptive-title .ins-element-content { font-family: inherit; font-size: 18px; font-weight: 700; text-align: center;}.ins-preview-wrapper-7264 .ins-adaptive-description .ins-element-content { font-family: inherit; font-size: 12px; text-align: center;}.ins-preview-wrapper-7264 .ins-adaptive-button .ins-element-content { height: 35px; margin: 0 auto; opacity: 1; background-color: rgb(90,191,247); border-radius: 6px !important; border-color: rgb(90,191,247);}.ins-preview-wrapper-7264 .ins-slider { width: 100%; overflow: hidden; color: #fff;}.ins-preview-wrapper-7264 .ins-slider-page { float: left; visibility: hidden;}.ins-preview-wrapper-7264 .ins-slider-page.ins-active-slide { float: left; visibility: visible;}.ins-preview-wrapper-7264 .ins-slider-container { overflow: hidden; transform: translate3d(0,0,0); -webkit-transform:translate3d(0,0,0); -moz-transform:translate3d(0,0,0); -ms-transform:translate3d(0,0,0); -o-transform:translate3d(0,0,0); display: flex !important; align-items: center; justify-content: center; width: 600px !important; height: auto !important; -webkit-transition: transform 0.5s ease; -moz-transition: transform 0.5s ease-in; -ms-transition: transform 0.5s ease-in; -o-transition: transform 0.5s ease-in; transition: transform 0.5s ease-in;}.ins-preview-wrapper-7264 #ins-slide-page-1 { padding: 25px 11px; position: relative;}.ins-preview-wrapper-7264 .ins-slider-padding { padding: 10px;}.ins-preview-wrapper-7264 .ins-checkbox { float: left; margin-top: 2px;}.ins-preview-wrapper-7264 .ins-checkbox-text { float: left; font-size: 11px; width: 100%;}.ins-preview-wrapper-7264 .ins-element-content { outline: none; width: 100%; text-align: center;}.ins-preview-wrapper-7264 .ins-checkbox-text .ins-element-content { text-align: left;}.ins-preview-wrapper-7264 .ins-flex-centered-container { display: flex !important; align-items: center;}.ins-preview-wrapper-7264 #ins-question-group-form input { outline: none;}.ins-preview-wrapper-7264 .ins-validation-error { border: 1px solid red !important;}.ins-preview-wrapper-7264 .ins-material-checkbox { -webkit-tap-highlight-color: transparent; -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; float: left; border: none !important; margin: 0px !important; padding: 0px !important; height: 25px;}.ins-preview-wrapper-7264 .ins-checkbox-default:not(:checked),.ins-preview-wrapper-7264 .ins-checkbox-default:checked { opacity: 0; position: absolute; margin: 0; z-index: -1; width: 0; height: 0; overflow: hidden; pointer-events: none;}.ins-preview-wrapper-7264 .ins-checkbox-default ~ label { display: inline-block !important; position: relative; cursor: pointer; height: 16px !important; padding-left: 22px !important; padding-top: 4px; background: transparent; margin: 0 !important; width: auto !important;}.ins-preview-wrapper-7264 .ins-checkbox-default ~ label:before { transform: translateZ(0); -webkit-transform: translateZ(0); -moz-transform: translateZ(0); -ms-transform: translateZ(0); -o-transform: translateZ(0);; -webkit-transition: all .2s ease-in-out; -moz-transition: all .2s ease-in-out; -ms-transition: all .2s ease-in-out; -o-transition: all .2s ease-in-out; transition: all .2s ease-in-out;}.ins-preview-wrapper-7264 .ins-checkbox-default ~ label:before,.ins-preview-wrapper-7264 .ins-checkbox-default ~ label:after { position: absolute; content: ""; left: 0; border-radius: 3px; display: block !important;}.ins-preview-wrapper-7264 .ins-checkbox-default:not(:checked) ~ label:before { width: 8px; height: 12px; border-top: 2px solid transparent; border-left: 2px solid transparent; border-bottom: 2px solid transparent; border-right: 2px solid transparent; top: 1px; left: 0; -webkit-transform: rotateZ(37deg) translate3d(0,0,0); transform: rotateZ(37deg) scale(0.1); -webkit-transform-origin: 20% 40%; transform-origin: 100% 100%;}.ins-preview-wrapper-7264 .ins-checkbox-default:not(:checked) ~ label:after { width: 16px; height: 16px; background-color: transparent; border: 2px solid #242e34 !important; z-index: 0;}.ins-preview-wrapper-7264 .ins-material-checkbox > .ins-checkbox-default:checked ~ label:before { top: 5px; left: -1px; width: 8px; height: 12px; border-top: 2px solid transparent; border-left: 2px solid transparent; border-bottom: 2.5px solid white; border-right: 2.5px solid white; background-color: transparent !important; z-index: 1; backface-visibility: hidden; transform: rotateZ(37deg) scale(1); -webkit-transform-origin: 100% 100%; transform-origin: 100% 100%;}.ins-preview-wrapper-7264 .ins-checkbox-default:checked ~ label:after { width: 16px; height: 16px; background-color: #242e34 !important; border: 2px solid #242e34 !important;}.ins-preview-wrapper-7264 .ins-checkbox-default.ins-validation-error:not(:checked) ~ label:after { border-color: red !important;}.ins-preview-wrapper-7264 .ins-slider-padding-auto { padding: 10px 0;}.ins-preview-wrapper-7264 .ins-thank-you-main-title { font-family: inherit; font-size: 30px; font-weight: bold; text-align: center; color: #ffffff; line-height: 30px;}.ins-preview-wrapper-7264 .ins-thank-you-sub-title { font-family: inherit; font-size: 11px; text-align: center; color: #ffffff; margin-top: 20px;}.ins-preview-wrapper-7264 .ins-coupon-text { width: 200px; height: 40px; line-height: 38px; margin: 20px auto; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none;}.ins-preview-wrapper-7264 .ins-coupon-text .ins-element-content { border: 2px dashed; border-color: #dae8f0; font-weight: bold; font-size: 14px;}/*close button*/.ins-preview-wrapper-7264 div[id^="wrap-close-button"] { position: absolute; z-index: 1; top: 12px; right: 12px;}.ins-preview-wrapper-7264 .ins-arabic div[id^="wrap-close-button"] { left: 12px; right: auto;}.ins-preview-wrapper-7264 .ins-popup-with-image-close-button { display: block !important;}.ins-preview-wrapper-7264 #ins-lead-collection-popup-with-image-adaptive .ins-copy-to-clipboard { width: 196px; overflow: hidden; line-height: 35px; text-align: center;}.ins-preview-wrapper-7264 #ins-lead-collection-popup-with-image-adaptive .ins-checkbox-text .ins-element-content { text-align: left;}.ins-preview-wrapper-7264.insFocusActivate { top: 0; bottom: inherit;}.ins-preview-wrapper-7264.insFocusInActivate { bottom: 0; top: inherit;}.ins-preview-wrapper-7264 .ins-element-close-button .ins-element-content { color: #242E34; cursor: pointer; font-size: 28px; line-height: 28px; width: 28px; font-family: Arial,sans-serif; text-align: center;}/*close button*/.ins-preview-wrapper-7264 .ins-content-wrapper #ins-lead-collection-popup-with-image-adaptive .ins-template-image { width: 350px; height: 400px; position: absolute; z-index: 9999; left: -1px; box-sizing: content-box;}.ins-preview-wrapper-7264 .ins-content-wrapper #ins-lead-collection-popup-with-image-adaptive .ins-template-image img { max-width: 100%;}.ins-preview-wrapper-7264 .ins-content-wrapper #ins-lead-collection-popup-with-image-adaptive.ins-arabic .ins-template-image { right: -1px; left: auto;}.ins-preview-wrapper-7264 .ins-content-wrapper #ins-lead-collection-popup-with-image-adaptive .ins-template-image > div { position: relative; display: block; top: 50%; left: 50%; transform: translate(-50%,-50%);}.ins-preview-wrapper-7264 .ins-disable-collect-email { margin: 0px 0 -34px 0 !important;}.ins-preview-wrapper-7264 .ins-wheel-slice-overlay{ width: 280px; height: 280px; left: 10px; top: 10px; position: relative; overflow: hidden; border-radius: 50% !important;}.ins-preview-wrapper-7264 .ins-checkbox-text .ins-element-editable { display: inline;}.ins-preview-wrapper-7264 div[data-required-question=false] .ins-required-indicator { display: none;}.ins-preview-wrapper-7264 [data-element-name="E-mail Opt-in Policy"],.ins-preview-wrapper-7264 [data-element-name="GDPR Policy"] { color: black;}.ins-preview-wrapper-7264 #ins-slide-page-1 .ins-element-content[data-element-name="Description"],.ins-preview-wrapper-7264 #ins-slide-page-1 .ins-coupon-text,.ins-preview-wrapper-7264 #ins-slide-page-1 .ins-element-content[data-element-name="Title"] { color: #000000;}.ins-preview-wrapper-7264 .ins-checkbox-text .ins-element-content { color: #000000;}.ins-preview-wrapper-7264 .ins-form-submit-button > div,.ins-preview-wrapper-7264 .ins-copy-button-container > div { background-color: #242E34 !important;}.ins-preview-wrapper-7264 .ins-dynamic-country-code,.ins-preview-wrapper-7264 input[type="tel"] { direction: ltr !important;}.ins-preview-wrapper-7264 .ins-form-submit-button { padding-bottom: 10px;}.ins-preview-wrapper-7264 { z-index: 999999999999999 !important;  position: fixed !important;}</style><script src="https://assets.api.useinsider.com/js/clipboard.min.js" async=""></script></head>
+
+<body class="auth-page">
+  
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5R5MNS3" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+  <section class="auth-block">
+    <div class="auth-block__container">
+      <div class="auth-block__space"></div>
+
+      <div class="auth-block__form-col">
+
+        <ul class="auth-block__logo-fado">
+          <a class="auth-header-block__logo-field" href="https://fado.vn"><img class="auth-header-block__logo-img" src="https://st-fe-v2.fado.vn/desktop/image/logo/logo-fado.svg" alt=""></a>
+        </ul>
+
+        <ul class="auth-block__menu-list">
+          <li class="is-active">
+            <a href="
+              /dang-nhap?redirect=https%3A%2F%2Ffado.vn%2F" data-test-login-tab-link="">
+              Đăng nhập            </a>
+          </li>
+          <li>
+            <a href="
+              /dang-ky-thanh-vien?redirect=https%3A%2F%2Ffado.vn%2F" data-test-register-tab-link="">
+              Đăng ký            </a>
+          </li>
+        </ul>
+
+        <div class="auth-block__form-col__body">
+          <form id="auth-block__login-form" class="auth-block__form" method="post" novalidate="novalidate">
+  
+  <div class="mz-form-group">
+    <div class="mz-form-group__label-col">
+      <div class="mz-form-label">Email</div>
+    </div>
+
+    <div class="mz-form-group__control-col">
+      <div class="mz-form-control mz-form-control-md">
+        <input type="email" id="auth-block__form-group__email" class="my-form-control" name="email" data-test-login-email-input="" attributename="email" value="" placeholder="Địa chỉ email của quý khách" aria-invalid="false">
+
+                  <input type="text" name="compareEmail" hidden="" readonly="" value="">
+
+          <input type="text" name="campaignName" hidden="" readonly="" value="">
+
+          <input type="text" name="token" hidden="" readonly="" value="">
+              </div>
+    </div>
+  </div>
+
+  <div class="mz-form-group">
+    <div class="mz-form-group__label-col">
+      <div class="mz-form-label">Password</div>
+    </div>
+
+    <div class="mz-form-group__control-col">
+      <div class="mz-form-control mz-form-control-md">
+        <input type="password" class="my-form-control" name="password" data-test-login-password="" placeholder="Mật khẩu của quý khách">
+      </div>
+    </div>
+  </div>
+  <div class="mz-text-right mz-mt-2">
+    <a href="#" data-toggle="modal" data-test-login-href="" data-test-forgot-password-link="" data-target="#request-password-modal">Quên mật khẩu ?</a>
+  </div>
+
+  <div class="auth-block__btn-group">
+    <button type="submit" data-test-login-btn-submit="" class="my-btn -btn-pill auth-block__login-btn mz-btn-primary">Đăng nhập</button>
+  </div>
+</form>
+          <div class="auth-block__login-with-segment">
+            <div class="auth-block__login-with-segment__title">
+              <span class="auth-block__login-with-segment__title-inner">Hoặc đăng nhập qua</span>
+            </div>
+
+            <div class="mz-flex mz-flex-wrap mz--mx-2">
+              <div class="mz-min-w-0 mz-w-1/2 mz-px-2">
+                <a class="auth-block__social-btn -fb" href="javascript:;" onclick="Social.openSocialLogin('https://www.facebook.com/v3.2/dialog/oauth?client_id=379542705504383&amp;state=57979e887517045248eb730168bddb35&amp;response_type=code&amp;sdk=php-sdk-5.7.0&amp;redirect_uri=https%3A%2F%2Ffado.vn%2Fdang-nhap-bang-mang-xa-hoi-facebook&amp;scope=email%2Cpublic_profile')">
+                  <i class="fab fa-facebook-square"></i> Facebook
+                </a>
+              </div>
+              <div class="mz-min-w-0 mz-w-1/2 mz-px-2">
+                <a class="auth-block__social-btn -gp" href="javascript:;" onclick="Social.openSocialLogin('https://accounts.google.com/o/oauth2/auth?response_type=code&amp;access_type=online&amp;client_id=701745402520-dg85nkn87it0untk25e7moq233jauc0p.apps.googleusercontent.com&amp;redirect_uri=https%3A%2F%2Ffado.vn%2Fdang-nhap-bang-mang-xa-hoi-google&amp;state&amp;scope=email%20profile&amp;approval_prompt=auto')">
+                  <i class="fab fa-google-plus-square"></i> Google Plus
+                </a>
+              </div>
+            </div>
+
+                          <div class="auth-block__alert-register-field">
+                                Quý khách chưa có tài khoản <a data-test-register-link="" href="/dang-ky-thanh-vien?redirect=https%3A%2F%2Ffado.vn%2F">Đăng ký ngay</a>              </div>
+                      </div>
+        </div>
+      </div>
+
+      <div class="auth-block__space"></div>
+    </div>
+  </section>
+
+  
+<div class="modal my-modal request-password-modal" id="request-password-modal" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+
+      <form id="request-password-modal__form" class="request-password-modal__form" method="post" novalidate="novalidate">
+        <div class="modal-content">
+          <div class="mz-basic-modal__head">
+            <div class="mz-basic-modal__title">
+              Lấy lại mật khẩu            </div>
+
+            <button class="mz-basic-modal__close-btn" data-dismiss="modal" aria-label="Close"></button>
+          </div>
+
+          <div class="mz-basic-modal__body">
+            <div class="mz-form-group">
+              <div class="mz-form-group__label-col">
+                <div class="mz-form-label">email</div>
+              </div>
+
+              <div class="mz-form-group__control-col">
+                <div class="mz-form-control mz-form-control-md">
+                  <input type="email" class="my-form-control" name="email" placeholder="Địa chỉ email của quý khách" data-test-request-email-input="">
+                </div>
+              </div>
+            </div><!-- .form-group -->
+
+            <div class="mz-form-group mz-mb-0">
+              <div class="mz-form-group__label-col">
+                <div class="mz-form-label">Mã xác nhận</div>
+              </div>
+
+              <div class="mz-form-group__control-col">
+                <div class="mz-flex mz-flex-wrap mz--mx-4">
+                  <div class="mz-min-w-0 mz-w-1/2 mz-px-4">
+                    <div class="mz-form-control mz-form-control-md">
+                      <input type="text" class="my-form-control" name="captcha" placeholder="Nhập mã xác nhận" data-test-request-captcha-input="">
+                    </div>
+                  </div>
+
+                  <div class="mz-min-w-0 mz-px-4 mz-text-center">
+                    <img id="request-password-modal__captcha-img" class="lazyload" src="" data-src="/ajax/captcha/generateCaptcha?h=40" alt="">
+                  </div>
+
+                  <div class="mz-min-w-0">
+                    <button id="request-password-modal__refresh-captcha-btn" type="button" class="mz-btn mz-btn-outline-primary mz-btn mz-btn-block reset-captcha-btn" tabindex="-1">
+                      <i class="far fa-sync"></i>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div><!-- .form-group -->
+          </div>
+
+          <div class="mz-basic-modal__foot">
+            <button class="mz-basic-modal__cancel-btn mz-btn" data-dismiss="modal">
+              Hủy bỏ
+            </button>
+
+            <button type="submit" class="mz-btn mz-btn-primary mz-btn-lg mz-btn-bdr-round" data-test-request-password-submit="">
+              Xác nhận            </button>
+          </div>
+        </div>
+
+      </form>
+    </div>
+  </div>
+</div><div class="modal my-modal request-password-finish-modal" id="request-password-finish-modal" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+
+      <div class="mz-basic-modal__head">
+        <div class="mz-basic-modal__title">
+          Lấy lại mật khẩu        </div>
+        <button class="mz-basic-modal__close-btn" data-dismiss="modal" aria-label="Close"></button>
+      </div>
+
+      <div class="mz-basic-modal__body">
+        <div class="request-password-finish-modal__step-panel">
+          <div class="request-password-finish-modal__icon-col">
+            <div class="request-password-finish-modal__icon-field"><i class="fal fa-envelope"></i></div>
+          </div>
+
+          <div class="request-password-finish-modal__info-col">
+            <div class="request-password-finish-modal__step-panel__title">Bước 1</div>
+            Mở email thay đổi mật khẩu Fado đã gửi cho quý khách          </div>
+        </div>
+
+        <div class="request-password-finish-modal__step-panel">
+          <div class="request-password-finish-modal__icon-col">
+            <div class="request-password-finish-modal__icon-field"><i class="fal fa-link"></i></div>
+          </div>
+
+          <div class="request-password-finish-modal__info-col">
+            <div class="request-password-finish-modal__step-panel__title">Bước 2</div>
+            Nhấp chọn vào đường dẫn trong email          </div>
+        </div>
+
+        <div class="request-password-finish-modal__step-panel">
+          <div class="request-password-finish-modal__icon-col">
+            <div class="request-password-finish-modal__icon-field"><i class="fal fa-key"></i></div>
+          </div>
+
+          <div class="request-password-finish-modal__info-col">
+            <div class="request-password-finish-modal__step-panel__title">Bước 3</div>
+            Tiến hành thay đổi mật khẩu tại website Fado          </div>
+        </div>
+      </div>
+
+      <div class="request-page mz-basic-modal__foot">
+        <div class="mz-btn mz-btn-primary mz-btn-md mz-btn-bdr-sm mz-btn-bdr-round">
+          <div class="mz-btn__label-col">
+            <a class="request-page__back-home" href="https://fado.vn">
+              <i class="icon-angle fas fa-angle-left"></i>
+              Quay về trang chủ            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  
+
+
+<script>
+  var gtmDataLayerObject ={"event":"pageview","page":{"type":"Other"},"user":{"id":"","status":"Anonymous","type":""}};
+  dataLayer.push(gtmDataLayerObject);
+  // console.log('gtmDataLayerObject', gtmDataLayerObject);
+
+  
+  
+  
+  
+  
+  
+  </script>
+
+
+  <script>
+    window.addOnloadEvent(function() {
+      window.isLoaded = true;
+    });
+  </script>
+
+
+<script type="text/javascript" id="" src="//fado.api.useinsider.com/ins.js?id=10002197"></script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","798445657458308");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=798445657458308&amp;ev=PageView&amp;noscript=1"></noscript>
+<script type="text/javascript" id="" charset="UTF-8" src="//web.webpushs.com/js/push/8b0706cf0ce81492d5f4831ed783d3d9_1.js"></script><script type="text/javascript" id="">OMID=2117035;OPID=38646;ORef=escape(window.parent.location.href);!function(){var b=document.createElement("script");b.type="text/javascript";b.async=!0;b.src="//track.omguk.com/e/qs/?action\x3dContent\x26MID\x3d"+OMID+"\x26PID\x3d"+OPID+"\x26ref\x3d"+ORef;var a=document.getElementsByTagName("body")[0];a?a.appendChild(b,a):(a=document.getElementsByTagName("script")[0],a.parentNode.insertBefore(b,a))}();</script><script type="text/javascript" async="" src="//track.omguk.com/e/qs/?action=Content&amp;MID=2117035&amp;PID=38646&amp;ref=https%3A//fado.vn/dang-nhap%3Fredirect%3Dhttps%253A%252F%252Ffado.vn%252F"></script><script type="text/javascript" id="">(function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src="https://analytics.tiktok.com/i18n/pixel/sdk.js?sdkid\x3dBR8C2GRABVNEQM4ABVS0";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();</script>
+  
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1296805557331721");fbq("set","agent","tmgoogletagmanager","1296805557331721");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1296805557331721&amp;ev=PageView&amp;noscript=1"></noscript>
+<script type="text/javascript" id="" src="//jscdn.appier.net/aa.js?id=fado.vn"></script><script type="text/javascript" id="">var FadoGTM=function(){function p(a){if(null===a||""===a||a===[])return!0;if("number"===typeof a)return!1;for(var b in a)if(a.hasOwnProperty(b))return!1;return!0}function v(){if(!p(window.gtm_category)&&!p(window.gtm_category.productAsinList)){var a=window.gtm_category.productAsinList.slice(0,3);a={event:"dynamicRemarketing",ecomm_prodid:a,ecomm_pagetype:google_tag_manager["GTM-5R5MNS3"].macro(6),ecomm_totalvalue:0};dataLayer.push(a)}}function w(){if(!p(window.gtm_product_detail)){var a=window.gtm_product_detail.id?String(window.gtm_product_detail.id):
+"",b=window.gtm_product_detail.name?String(window.gtm_product_detail.name):"",c=window.gtm_product_detail.price?parseFloat(window.gtm_product_detail.price):0,d=window.gtm_product_detail.brand?String(window.gtm_product_detail.brand):"",f=window.gtm_product_detail.category?String(window.gtm_product_detail.category):"",e=window.gtm_product_detail.variant?String(window.gtm_product_detail.variant):"";d=[{id:a,name:b,price:c,brand:d,category:f,variant:e}];d={event:"productDetail",ecommerce:{detail:{products:d}}};
+dataLayer.push(d);e={event:"dynamicRemarketing",ecomm_prodid:a,ecomm_pagetype:"Product Detail",ecomm_totalvalue:c};dataLayer.push(e);a={content_type:"product",content_ids:[a],content_name:b,content_category:f,value:c,currency:"VND"};fbq("track","ViewContent",a);window.MY_DEBUG&&(console.log("_gtm_productDetailPage ecommerceObject",d),console.log("_gtm_productDetailPage remarketingObject",e),console.log("_gtm_productDetailPage fbqObject",a))}}function r(a,b){b&&b.keyword&&b.countryCode&&(a={event:"search",
+eventCategory:google_tag_manager["GTM-5R5MNS3"].macro(7),eventAction:"search-empty-"+b.countryCode+"-label",eventLabel:b.keyword},dataLayer.push(a),window.MY_DEBUG&&console.log("_gtm_searchEmptyResult searchEmptyResultObj",a))}function t(a,b){b&&(a=JSON.parse(b),a={event:"dynamicRemarketing",ecomm_prodid:a,ecomm_pagetype:google_tag_manager["GTM-5R5MNS3"].macro(8),ecomm_totalvalue:0},dataLayer.push(a),window.MY_DEBUG&&console.log("_gtm_searchAllPage remarketingObject",a))}function u(){if(!p(window.gtm_category))if(p(window.gtm_category.productAsinList)&&
+window.gtm_category.keywordList){for(var a="",b=0,c=window.gtm_category.keywordList.length;b<c;b++)a+=window.gtm_category.keywordList[b]+",";a={event:"search",eventCategory:google_tag_manager["GTM-5R5MNS3"].macro(9),eventAction:"search-empty-"+google_tag_manager["GTM-5R5MNS3"].macro(10)+"-label",eventLabel:a};dataLayer.push(a)}else a=window.gtm_category.productAsinList.slice(0,3),a={event:"dynamicRemarketing",ecomm_prodid:a,ecomm_pagetype:google_tag_manager["GTM-5R5MNS3"].macro(11),ecomm_totalvalue:0},dataLayer.push(a)}function x(){if((!window.DEVICE||"mobile"!==
+window.DEVICE.device||!window.MICZONE||"checkoutPaymentPage"!==window.MICZONE.ROUTER_NAME&&"checkoutConfirmPage"!==window.MICZONE.ROUTER_NAME)&&!p(window.gtm_checkout)){for(var a=[],b=0,c=[],d=0,f=window.gtm_checkout.length;d<f;d++){var e=window.gtm_checkout[d].id?String(window.gtm_checkout[d].id):"",g=window.gtm_checkout[d].name?String(window.gtm_checkout[d].name):"",h=window.gtm_checkout[d].price?parseFloat(window.gtm_checkout[d].price):0,k=window.gtm_checkout[d].quantity?parseInt(window.gtm_checkout[d].quantity):
+0,l=window.gtm_checkout[d].brand?String(window.gtm_checkout[d].brand):"",n=window.gtm_checkout[d].category?String(window.gtm_checkout[d].category):"",m=window.gtm_checkout[d].variant?String(window.gtm_checkout[d].variant):"";a.push({id:e,name:g,price:h,quantity:k,brand:l,category:n,variant:m});b+=k*h;c.push({id:e,item_price:h,quantity:k})}a={event:"productCheckout",ecommerce:{checkout:{products:a,actionField:{step:1}}}};dataLayer.push(a);b={contents:c,value:b,currency:"VND"};fbq("track","InitiateCheckout",
+b);window.MY_DEBUG&&(console.log("_gtm_checkoutPage ecommerceObject",a),console.log("_gtm_checkoutPage fbqObject",b))}}function y(){if(!p(window.gtm_reciept)&&!p(window.gtm_reciept.productList)){for(var a=[],b=[],c=[],d=0,f=window.gtm_reciept.productList.length;d<f;d++){var e=window.gtm_reciept.productList[d].id?String(window.gtm_reciept.productList[d].id):"",g=window.gtm_reciept.productList[d].name?String(window.gtm_reciept.productList[d].name):"",h=window.gtm_reciept.productList[d].price?parseFloat(window.gtm_reciept.productList[d].price):
+0,k=window.gtm_reciept.productList[d].quantity?parseInt(window.gtm_reciept.productList[d].quantity):0,l=window.gtm_reciept.productList[d].brand?String(window.gtm_reciept.productList[d].brand):"",n=window.gtm_reciept.productList[d].category?String(window.gtm_reciept.productList[d].category):"",m=window.gtm_reciept.productList[d].variant?String(window.gtm_reciept.productList[d].variant):"";a.push({id:e,name:g,price:h,quantity:k,brand:l,category:n,variant:m});b.push({productID:e,price:h,unit:k});c.push(e)}0!==
+a.length&&(a={event:"productCheckout",ecommerce:{checkout:{products:a,actionField:{step:4}}}},dataLayer.push(a),b=window.gtm_reciept.id?String(window.gtm_reciept.id):"",d=window.gtm_reciept.revenue?parseFloat(window.gtm_reciept.revenue):0,""!==b&&(c={event:"customTransactionSuccess",transaction:{id:b,revenue:d,productIdList:c}},dataLayer.push(c),window.MY_DEBUG&&(console.log("_gtm_recieptPage ecommerceObject",a),console.log("_gtm_recieptPage ecommerceObject JSON.stringify",JSON.stringify(a)),console.log("_gtm_recieptPage customTransactionObject",
+c))))}}function z(){switch(google_tag_manager["GTM-5R5MNS3"].macro(12)){case "Department":try{v()}catch(a){console.error("_gtm_categoryPage",a.message)}break;case "Product Detail":case "Deluxe Product Detail":try{w()}catch(a){console.error("_gtm_productDetailPage",a.message)}break;case "Search Store":try{u()}catch(a){console.error("_gtm_searchPage",a.message)}break;case "Search All":try{t()}catch(a){console.error("_gtm_searchAllPage",a.message)}break;case "Search":try{u()}catch(a){console.error("_gtm_searchPage",a.message)}break;
+case "Cart":try{p(window.gtm_cart)}catch(a){console.error("_gtm_cartPage",a.message)}break;case "Checkout":try{x()}catch(a){console.error("_gtm_checkoutPage",a.message)}break;case "Reciept":try{y()}catch(a){console.error("_gtm_recieptPage",a.message)}}window.jQuery?(jQuery(window.document.body).on("gtm_checkout_step",function(a,b){try{if((a=b)&&a.step&&a.productList){b=[];for(var c=0,d=a.productList.length;c<d;c++){var f=a.productList[c].id?String(a.productList[c].id):"",e=a.productList[c].name?String(a.productList[c].name):
+"",g=a.productList[c].price?parseFloat(a.productList[c].price):0,h=a.productList[c].quantity?parseInt(a.productList[c].quantity):0,k=a.productList[c].brand?String(a.productList[c].brand):"",l=a.productList[c].category?String(a.productList[c].category):"",n=a.productList[c].variant?String(a.productList[c].variant):"";b.push({id:f,name:e,price:g,quantity:h,brand:k,category:l,variant:n})}var m={step:a.step};d={event:"productCheckout",ecommerce:{checkout:{products:b,actionField:m}}};dataLayer.push(d);
+a.option&&(m.option=a.option,m={event:"checkoutOption",ecommerce:{checkout_option:{actionField:m}}},dataLayer.push(m));window.MY_DEBUG&&(console.log("_gtm_checkoutStepHandler ecommerceObject",d),console.log("_gtm_checkoutStepHandler ecommerceObject JSON.stringify",JSON.stringify(d)))}}catch(q){console.error("_gtm_checkoutStepHandler",q.message)}}),jQuery(window.document.body).on("gtm_transaction_success",function(a,b){try{if(b&&b.id&&b.revenue&&b.productList&&b.productList.length){var c=String(b.id),
+d=parseFloat(b.revenue);a=[];for(var f=[],e=0,g=b.productList.length;e<g;e++){var h=b.productList[e].id?String(b.productList[e].id):"",k=b.productList[e].name?String(b.productList[e].name):"",l=b.productList[e].price?parseFloat(b.productList[e].price):0,n=b.productList[e].quantity?parseInt(b.productList[e].quantity):0,m=b.productList[e].brand?String(b.productList[e].brand):"",q=b.productList[e].category?String(b.productList[e].category):"",A=b.productList[e].variant?String(b.productList[e].variant):
+"",B=b.productList[e].source?String(b.productList[e].source):"";f.push({id:h,name:k,price:l,quantity:n,brand:m,category:q,variant:A,dimension16:B});a.push(h)}var C={id:c,affiliation:b.affiliation?String(b.affiliation):"",revenue:d,tax:b.tax?parseFloat(b.tax):0,shipping:b.shipping?parseFloat(b.shipping):0,coupon:b.coupon?String(b.coupon):""};g={event:"transactionSuccess",ecommerce:{purchase:{products:f,actionField:C}}};dataLayer.push(g);c={event:"customTransactionSuccess",transaction:{id:c,revenue:d,
+productIdList:a}};dataLayer.push(c);window.MY_DEBUG&&(console.log("_gtm_transactionSuccess ecommerceObject",g),console.log("_gtm_transactionSuccess ecommerceObject JSON.stringify",JSON.stringify(g)))}}catch(D){console.error("_gtm_transactionSuccess",D.message)}}),jQuery(window.document.body).on("gtm_transaction_cancel",function(a,b){try{if((a=b)&&a.id){b=[];if(a.productList&&a.productList.length)for(var c=0,d=a.productList.length;c<d;c++){var f=a.productList[c].id?String(a.productList[c].id):"",e=
+a.productList[c].quantity?parseInt(a.productList[c].quantity):0;b.push({id:f,quantity:e})}var g={id:a.id?String(a.id):""};d={event:"transactionCancel",ecommerce:{refund:{products:b,actionField:g}}};dataLayer.push(d);window.MY_DEBUG&&(console.log("_gtm_transactionCancel ecommerceObject",d),console.log("_gtm_transactionCancel ecommerceObject JSON.stringify",JSON.stringify(d)))}}catch(h){console.error("_gtm_transactionCancel",h.message)}}),jQuery(window.document.body).on("gtm_user_logged_in",function(a,
+b){}),jQuery(window.document.body).on("gtm_user_complete_registration",function(a){}),jQuery(window.document.body).on("gtm_add_to_cart",function(a,b){try{if(a=b){var c=a.id?String(a.id):"",d=a.name?String(a.name):"",f=a.price?parseFloat(a.price):0,e=a.quantity?parseInt(a.quantity):1,g=a.brand?String(a.brand):"",h=a.category?String(a.category):"",k=a.variant?String(a.variant):"";c=[{id:c,name:d,price:f,quantity:e,brand:g,category:h,variant:k}];c={event:"productAddToCart",ecommerce:{add:{products:c}}};
+dataLayer.push(c);window.MY_DEBUG&&(console.log("_gtm_addToCartHandler ecommerceObject",c),console.log("_gtm_addToCartHandler ecommerceObject JSON.stringify",JSON.stringify(c)))}}catch(l){console.error("_gtm_addToCartHandler",l.message)}}),jQuery(window.document.body).on("gtm_buy_now",function(a,b){try{if(a=b){var c=a.id?String(a.id):"",d=a.name?String(a.name):"",f=a.price?parseFloat(a.price):0,e=a.quantity?parseInt(a.quantity):1,g=a.brand?String(a.brand):"",h=a.category?String(a.category):"",k=a.variant?
+String(a.variant):"";c=[{id:c,name:d,price:f,quantity:e,brand:g,category:h,variant:k}];c={event:"productBuyNow",ecommerce:{add:{products:c}}};dataLayer.push(c);window.MY_DEBUG&&(console.log("_gtm_buyNowHandler ecommerceObject",c),console.log("_gtm_buyNowHandler ecommerceObject JSON.stringify",JSON.stringify(c)))}}catch(l){console.error("_gtm_buyNowHandler",l.message)}}),jQuery(window.document.body).on("gtm_remove_from_cart",function(a,b){try{if((a=b)&&a.productList){b=[];for(var c=0,d=a.productList.length;c<
+d;c++){var f=a.productList[c].id?String(a.productList[c].id):"",e=a.productList[c].name?String(a.productList[c].name):"",g=a.productList[c].price?parseFloat(a.productList[c].price):0,h=a.productList[c].quantity?parseInt(a.productList[c].quantity):0,k=a.productList[c].brand?String(a.productList[c].brand):"",l=a.productList[c].category?String(a.productList[c].category):"",n=a.productList[c].variant?String(a.productList[c].variant):"";b.push({id:f,name:e,price:g,quantity:h,brand:k,category:l,variant:n})}d=
+{event:"productRemoveFromCart",ecommerce:{remove:{products:b}}};dataLayer.push(d);window.MY_DEBUG&&(console.log("_gtm_removeFromCartHandler ecommerceObject",d),console.log("_gtm_removeFromCartHandler ecommerceObject JSON.stringify",JSON.stringify(d)))}}catch(m){console.error("_gtm_removeFromCartHandler",m.message)}}),jQuery(window.document.body).on("gtm_apm",function(a,b){try{if(b&&b.type&&b.message){var c={event:"apmTrack",apm:{type:b.type,message:b.message}};dataLayer.push(c);window.MY_DEBUG&&console.log("_gtm_apmHandler apmObject",
+c)}}catch(d){console.error("_gtm_apmHandler",d.message)}}),jQuery(window.document.body).on("gtm_impress_product",function(a,b){try{if(b&&b.productList){a=[];for(var c=0,d=b.productList.length;c<d;c++){var f=b.productList[c].id?String(b.productList[c].id):"",e=b.productList[c].name?String(b.productList[c].name):"",g=b.productList[c].price?parseFloat(b.productList[c].price):0,h=b.productList[c].brand?String(b.productList[c].brand):"",k=b.productList[c].category?String(b.productList[c].category):"",
+l=b.productList[c].variant?String(b.productList[c].variant):"",n=b.productList[c].list?String(b.productList[c].list):"",m=b.productList[c].position?parseInt(b.productList[c].position):0;a.push({id:f,name:e,price:g,brand:h,category:k,variant:l,list:n,position:m})}d=[];for(f={};0<a.length;)d=a.splice(0,25),f={event:"productImpressions",ecommerce:{impressions:d}},dataLayer.push(f),window.MY_DEBUG&&(console.log("_gtm_impressProduct productListSendLength",d.length),console.log("_gtm_impressProduct ecommerceObject",
+f),console.log("_gtm_impressProduct ecommerceObject JSON.stringify",JSON.stringify(f)))}}catch(q){console.error("_gtm_impressProduct",q.message)}}),jQuery(window.document.body).on("gtm_click_product",function(a,b){try{if(b&&b.productList){a=[];for(var c=0,d=b.productList.length;c<d;c++){var f=b.productList[c].id?String(b.productList[c].id):"",e=b.productList[c].name?String(b.productList[c].name):"",g=b.productList[c].price?parseFloat(b.productList[c].price):0,h=b.productList[c].brand?String(b.productList[c].brand):
+"",k=b.productList[c].category?String(b.productList[c].category):"",l=b.productList[c].variant?String(b.productList[c].variant):"",n=b.productList[c].list?String(b.productList[c].list):"",m=b.productList[c].position?parseInt(b.productList[c].position):0;a.push({id:f,name:e,price:g,brand:h,category:k,variant:l,position:m})}d={list:n};d={event:"productClick",ecommerce:{click:{actionField:d,products:a}}};dataLayer.push(d);window.MY_DEBUG&&(console.log("_gtm_clickProduct ecommerceObject",d),console.log("_gtm_clickProduct ecommerceObject JSON.stringify",
+JSON.stringify(d)))}}catch(q){console.error("_gtm_clickProduct",q.message)}}),jQuery(window.document.body).on("gtm_impress_promotion",function(a,b){try{if(b){var c=JSON.parse(b);a={event:"promotionImpressions",ecommerce:{promoView:{promotions:c}}};dataLayer.push(a);window.MY_DEBUG&&(console.log("_gtm_impressPromotion promotionList",c.length),console.log("_gtm_impressProduct ecommerceObject",a),console.log("_gtm_impressProduct ecommerceObject JSON.stringify",JSON.stringify(a)))}}catch(d){console.error("_gtm_impressPromotion",
+d.message)}}),jQuery(window.document.body).on("gtm_click_promotion",function(a,b){try{if(b){var c=JSON.parse(b);a={event:"promotionClick",ecommerce:{promoClick:{promotions:c}}};dataLayer.push(a);window.MY_DEBUG&&(console.log("_gtm_clickPromotion ecommerceObject",a),console.log("_gtm_clickPromotion ecommerceObject JSON.stringify",JSON.stringify(a)))}}catch(d){console.error("_gtm_clickPromotion",d.message)}}),jQuery(window.document.body).on("gtm_search_all",function(a,b){try{t(a,b)}catch(c){console.error("_gtm_searchAllPage",
+c.message)}}),jQuery(window.document.body).on("gtm_search_empty_result",function(a,b){try{r(a,b)}catch(c){console.error(r,c.message)}})):console.error("jQuery is not defined !")}return{init:function(){z();console.log("init GTM")}}}();FadoGTM.init();</script>
+
+<iframe src="https://asia.creativecdn.com/tags?id=pr_QkYz65ruJTr0NmSOFc6F&amp;ncm=1" width="1" height="1" scrolling="no" frameborder="0" style="display: none;"></iframe><iframe id="insider-worker" src="https://fado.api.useinsider.com/worker-new.html" style="display: none;"></iframe><style id="ins-free-style" innerhtml=""></style><div classname="ins-preview-wrapper ins-preview-wrapper-7264" class="ins-preview-wrapper ins-preview-wrapper-7264 ins-pos-middle-center" style="display: block; visibility: visible;"><div classname="ins-content-wrapper ins-content-wrapper-7264" class="ins-content-wrapper ins-content-wrapper-7264"><div classname="ins-notification-content ins-notification-content-7264" class="ins-notification-content ins-notification-content-7264" style="background-color: rgb(255, 255, 255) !important; background-image: none !important; border-width: 0px !important; border-style: none !important; border-color: rgb(51, 51, 51) !important; border-radius: 0px !important;"><div id="ins-lead-collection-popup-with-image-adaptive">
+    <div id="wrap-image-1545221851230" class="ins-general-image ins-selectable-element ins-element-wrap ins-element-image ins-template-image">
+        <div id="image-1545221851230" class="ins-element-content" data-variable-name="Image" ondrop="return false;" ondragstart="return false;">
+            <a id="link-image-1545221851230" class="ins-element-link">
+                <img src="https://image.useinsider.com/fado/defaultImageLibrary/Desktop%20%281%29-1618568378.png">
+            </a>
+        </div>
+    </div>
+    <form id="ins-question-group-form">
+        <div class="ins-slider ins-slider-initialized">
+            <!-- Additional required wrapper -->
+            <div class="ins-slider-container" style="width: 0px; transform: translate3d(0px, 0px, 0px);">
+                <!-- Slides -->
+                <div class="ins-slider-page ins-element-wrap ins-element-sub-frame ins-active-slide" data-element-name="Page 1" data-override-name="true" id="ins-slide-page-0" data-insider-slide="0" data-insider-index="0" style="width: 300px;">
+                    <div class="ins-slider-padding form-container">
+                        <div id="ins-wrap-text-1545222108989" class="ins-adaptive-title ins-selectable-element ins-element-wrap ins-element-text">
+                            <div id="text-1545222108989" class="ins-element-content ins-editable-text" max-character="33" data-element-name="Main Title" style="font-size: 30px !important; font-weight: 700 !important;">
+                                <div class="ins-editable ins-element-editable" id="ins-editable-text-1545222108989" data-bind-menu="notification|text_editing">
+                                    <a href="javascript:void(0)"> Không bỏ lỡ ưu đãi!</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="ins-wrap-text-1545222161177" class="ins-adaptive-description ins-selectable-element ins-element-wrap ins-element-text">
+                            <div id="text-1545222161177" class="ins-element-content ins-editable-text" max-character="70" data-element-name="Description" ondrop="return false;" ondragstart="return false;">
+                                <div class="ins-editable ins-element-editable" id="ins-editable-text-1545222161177" data-bind-menu="notification|text_editing">Đăng Kí Nhận Tin Miễn Phí Để Không Bỏ Lỡ Deals Hot Mỗi Ngày</div>
+                            </div>
+                        </div>
+                        <div id="ins-wrap-question-1545222171109" class="ins-adaptive-question ins-adaptive-email ins-element-question ins-dynamic-input-reference">
+                            <div id="ins-question-1545222171109" class="ins-element-content" data-question-type="text" data-required-question="true">
+                                <div id="ins-option-input-1545222171109" class="ins-selectable-element ins-element-wrap" data-override-name="true">
+                                    <input id="ins-dynamic-input-1545222171109" class="ins-dynamic-input ins-element-content" type="email" name="1545222171109" placeholder="Email" data-option-validation-type="6" data-element-name="Input Box" data-required-question="true" validation-error-color="rgb(255,0,0)" data-removable-element="false" input-type="email">
+                                </div>
+                            </div>
+                        </div>
+                        <div id="ins-wrap-question-1545222181559" class="ins-adaptive-question ins-adaptive-email ins-element-question ins-dynamic-input-reference">
+                            <div id="ins-question-1545222181559" class="ins-element-content" data-question-type="text" data-required-question="true">
+                                <div id="ins-option-input-1545222181559" class="ins-selectable-element ins-element-wrap" data-override-name="true">
+                                    <input id="ins-dynamic-input-1545222181559" class="ins-dynamic-input ins-element-content" type="text" name="1545222181559" placeholder="Tên" data-option-validation-type="6" data-element-name="Input Box" data-required-question="true" validation-error-color="rgb(255,0,0)" input-type="na">
+                                </div>
+                            </div>
+                        </div>
+                        <div id="ins-wrap-button-1543161743946" class="ins-form-submit-button ins-adaptive-button ins-selectable-element ins-element-wrap ins-element-button">
+                            <div id="button-1543161743946" class="ins-element-content ins-editable-text">
+                                <a id="ins-link-button-1543161743946" class="ins-element-link" href="javascript:void(0)" slide-type="next" data-element-name="Button">
+                                    <div class="ins-editable ins-element-editable" id="ins-editable-button-1543161743946" data-bind-menu="notification|text_editing">Đăng Kí</div>
+                                </a>
+                            </div>
+                        </div>
+                        <div id="ins-wrap-question-1555415354531" class="ins-selectable-element ins-element-wrap ins-element-question">
+                            <div id="ins-question-1555415354531" class="ins-element-content ins-flex-centered-container" type="checkbox" data-override-name="true" data-element-name="E-mail Opt-in Policy" data-question-type="checkboxes" data-required-question="true" inputtype="email-opt-in" notified="true">
+                                <div id="ins-wrap-question-option-1555415354531" class="ins-selectable-element ins-element-wrap ins-checkbox">
+                                    <div id="ins-option-text-1555415354531" class="ins-element-content" data-override-name="true" data-element-name="Checkbox">
+                                        <fieldset id="checkboxes-1555415354558132" class="ins-material-checkbox"><input id="ins-option-input-1555415354531" class="ins-checkbox-default" type="checkbox" name="1555415354531" data-option-text="By submitting this form, you are giving consent for your e-mail to be used and disclosed." data-option-validation-type="false" data-input-type="email-opt-in"><label id="label-1555415354560819" for="ins-option-input-1555415354531"></label></fieldset>
+                                    </div>
+                                </div>
+                                <div id="ins-wrap-question-text-1555415354531" class="ins-selectable-element ins-element-wrap ins-checkbox-text">
+                                    <div id="text-1555415354531" class="ins-element-content" ondrop="return false;" ondragstart="return false;">
+                                        <div id="ins-question-text-editable-1555415354531" class="ins-element-editable ins-editable" data-bind-menu="notification|text_editing">Bằng cách gửi biểu mẫu này, bạn đồng ý cho phép sử dụng e-mail của mình để nhận những ưu đãi hấp dẫn nhất từ Fado.vn.</div>
+                                        <span id="undefined-1555415354562244" class="ins-required-indicator">*</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="ins-slider-page ins-element-wrap ins-element-sub-frame" data-element-name="Page 2" data-override-name="true" id="ins-slide-page-1" data-insider-slide="1" data-insider-index="1" style="width: 300px;">
+                    
+                    <div class="ins-slider-padding-auto thank-you-text-container">
+                        <div id="ins-wrap-text-1545222272235" class="ins-thank-you-main-title ins-selectable-element ins-element-wrap ins-element-text ins-flex-centered-container">
+                            <div id="text-1545222272235" class="ins-element-content ins-editable-text" data-element-name="Title" data-override-name="true" data-background-color-changed="true" style="text-align: center !important; font-family: &quot;Insider-Noto Sans&quot;, sans-serif !important;">
+                                <div class="ins-editable ins-element-editable" id="ins-editable-text-1545222272235" data-bind-menu="notification|text_editing">Cảm Ơn Bạn Đã Đăng Kí</div>
+                            </div>
+                        </div>
+                        <div id="ins-wrap-text-1545222281223" class="ins-thank-you-sub-title ins-selectable-element ins-element-wrap ins-element-text ins-flex-centered-container">
+                            <div id="text-1545222281223" class="ins-element-content ins-editable-text" data-element-name="Description" data-override-name="true" data-background-color-changed="true" style="text-align: center !important; font-size: 12px !important; font-family: Fadofont, -apple-system, system-ui, Roboto, &quot;Helvetica Neue&quot;, sans-serif !important;" ondrop="return false;" ondragstart="return false;">
+                                <div class="ins-editable ins-element-editable" id="ins-editable-text-1545222281223" data-bind-menu="notification|text_editing">
+                                    <a href="javascript:void(0)">Bạn hiện là một trong số những người dùng được chúng tôi thông tin tới về những ưu đãi từ các&nbsp;</a>chương trình khuyến mãi hấp dẫn nhất!<br></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+    <div id="wrap-close-button-1545222288830" class="ins-selectable-element ins-element-wrap ins-element-close-button ins-popup-with-image-close-button">
+        <div id="close-button-1545222288830" class="ins-element-content">
+            <span>×</span>
+        </div>
+    </div>
+</div></div></div></div><div id="ins-frameless-overlay" data-camp-id="7264" close-on-click="false" style="display: block; opacity: 0.8; background-color: rgb(0, 0, 0);"></div><script type="text/javascript" async="" classname="ins-camp-frameless-js ins-camp-frameless-js-7264" class="ins-camp-frameless-js ins-camp-frameless-js-7264">try {(function(camp){var construct=function(){checkCouponPage();isRightToLeftLanguage();checkCopyButton();};var checkCouponPage=function(){if('none'==='block'){sQuery('.thank-you-text-container').remove();setEvents();}else{sQuery('.thank-you-coupon-container').remove();}};var rightToLeftLangList=['ar_AE','ar_AR','ar_EG','ar_ME','ar_SA','fa_FA','ur_UR'];var isRightToLeftLanguage=function(){if(rightToLeftLangList.indexOf(spApi.getLang())>-1){sQuery('#ins-lead-collection-popup-with-image-adaptive').addClass('ins-arabic');}};var checkCopyButton=function(){if(typeof InsClipboard==='undefined'){spApi.loadScript(spApi.staticUrl+'js/clipboard.min.js',setCopyButton);}else{setCopyButton();}};var setCopyButton=function(){if(!sQuery('.ins-element-copy-to-clipboard-button').hasClass('ins-show-assistant')){sQuery(document).trigger('setCopyButton'+camp.id,'.ins-element-copy-to-clipboard-button');}};var getCouponCode=function(){var couponCode=isCouponExists()?spApi.storageData('sp-info-c-'+camp.id):'';if(couponCode){var couponCont=sQuery('.ins-copy-to-clipboard');couponCont.html(couponCont.html().replace('@COUPONCODE',couponCode));sQuery('.ins-element-copy-to-clipboard-button').attr('data-clipboard-text',couponCode);}};var setEvents=function(){sQuery(document).on('insValidationSuccess'+camp.id,function(){if(!isCouponExists()){sQuery(document).trigger('getCoupon'+camp.id,getCouponCode);}else{getCouponCode();}});sQuery('.ins-element-copy-to-clipboard-button').unbind('click.insCouponCopyToClipboard').on('click.insCouponCopyToClipboard',function(){if(camp.id!==0){sQuery('.ins-editable',this).text('Copied');sQuery(this).closest('.ins-coupon-button').attr('style','background-color: #515252 !important;');}});};var isCouponExists=function(){return spApi.storageData('sp-info-c-'+camp.id)!==null;};construct();sQuery(document).on('framelessInited'+camp.id,function(){construct();});})({"id":7264,"predictiveFeedSettings":"","locationConfig":{"type":0,"mode":"adaptive","position":"fixed","left":"357.5","top":"167.5","windowHeight":"659","windowWidth":"1440","windowHref":"https://action-builder-on-page.inone.useinsider.com/?url=https%3A%2F%2Ffado.vn%2F","selectedElement":"","frameless":true,"gridIsActive":true,"gridConfig":{"gridIsActive":"true","mode":"adaptive","xDirection":"center","yDirection":"middle"}},"currencyFormatRules":{"VND":{"name":"Vietnamese Dong","value":"VND","symbol":"VND","thousandSeparator":".","decimalSeparator":",","alignment":"1","decimalCount":-1}},"storyConfig":[],"smsConfig":{"virtualLongNumber":""}});}catch(err){Insider.errorBag.add(err);}</script></body><iframe id="__JSBridgeIframe_1.0__" style="display: none;"></iframe><iframe id="__JSBridgeIframe_SetResult_1.0__" style="display: none;"></iframe><iframe id="__JSBridgeIframe__" style="display: none;"></iframe><iframe id="__JSBridgeIframe_SetResult__" style="display: none;"></iframe></html>

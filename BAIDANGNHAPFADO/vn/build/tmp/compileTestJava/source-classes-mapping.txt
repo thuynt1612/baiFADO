@@ -1,0 +1,34 @@
+moreaction/ui/FadoHomePage.java
+ moreaction.ui.FadoHomePage
+moreaction/features/search/package-info.java
+ moreaction.features.search.package-info
+moreaction/ui/GoogleSearchPage.java
+ moreaction.ui.GoogleSearchPage
+moreaction/tasks/UpdateInformationForm.java
+ moreaction.tasks.UpdateInformationForm
+ moreaction.tasks.UpdateInformationForm$UpdateBuider
+moreaction/tasks/Search.java
+ moreaction.tasks.Search
+moreaction/tasks/UpdateInFoMaTiOnPage.java
+ moreaction.tasks.UpdateInFoMaTiOnPage
+moreaction/features/search/SearchByKeywordStory.java
+ moreaction.features.search.SearchByKeywordStory
+moreaction/tasks/LoginHome.java
+ moreaction.tasks.LoginHome
+moreaction/tasks/RefreshPage.java
+ moreaction.tasks.RefreshPage
+moreaction/ui/SearchBox.java
+ moreaction.ui.SearchBox
+moreaction/tasks/OpenTheApplication.java
+ moreaction.tasks.OpenTheApplication
+moreaction/ui/UpdatePage.java
+ moreaction.ui.UpdatePage
+moreaction/ui/LoginPage.java
+ moreaction.ui.LoginPage
+moreaction/tasks/LoginForm.java
+ moreaction.tasks.LoginForm
+ moreaction.tasks.LoginForm$LoginBuilder
+moreaction/tasks/ClosePromotional.java
+ moreaction.tasks.ClosePromotional
+moreaction/features/search/FadoUpdateInformationStory.java
+ moreaction.features.search.FadoUpdateInformationStory
